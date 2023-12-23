@@ -1,0 +1,9 @@
+[submodule "shoppping"]
+	path = shoppping
+	url = https://github.com/MalekCherif112/shopping-service.git
+[submodule "products"]
+	path = products
+	url = https://github.com/MalekCherif112/products-service.git
+[submodule "customers"]
+	path = customers
+	url = https://github.com/MalekCherif112/customers-service.git
