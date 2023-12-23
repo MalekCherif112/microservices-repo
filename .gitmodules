@@ -7,3 +7,6 @@
 [submodule "customers"]
 	path = customers
 	url = https://github.com/MalekCherif112/customers-service.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MalekCherif112/microservices-frontend.git
